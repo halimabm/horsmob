@@ -1,0 +1,35 @@
+{
+
+	"GOOGLE_INTERSTITIAL":"ca-app-pub-6817063972150198/1251174473",
+	"GOOGLE_NATIVE":"ca-app-pub-6817063972150198/8917093268",
+	"GOOGLE_BANNER":"ca-app-pub-6817063972150198/3581006100",
+	
+
+	"TAP_APPID":"60f4d14308fe6c2d735d685b",
+	"ClientKey":"60fbc86c-6560-4d4e-b68f-b25ff722d795",
+
+
+    "Click1":"false",
+    "Click2":"false",
+    "Click3":"false",
+    "Click4":"false",
+    "Click5":"false",
+
+    
+    "ban1":"false",
+    "ban2":"false",
+    "ban3":"false",
+    "ban4":"false",
+   
+	
+    "nat1":"false",
+    "UPDATE":"false",
+
+
+    "INTER_INTERVAL":1
+    
+  
+    
+
+
+}
